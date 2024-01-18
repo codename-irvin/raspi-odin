@@ -7,4 +7,4 @@ A minimal example showing how to boot Odin code on a Raspberry PI 3 Model B. The
 1. Install QEMU on your system
 2. Install the Odin compiler on your system
 3. Run build.sh to compile and link the kernel image or
-4. Run run.sh to boot the kernel in QEMU
+4. Run run.sh to build and boot the kernel in QEMU
